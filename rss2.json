@@ -2,7 +2,7 @@
   {
     "provider": "rss",
     "name": "rss-golem-all",
-    "url": "https://sinhalahacker.lk/feeds/posts/default",
+    "url": "http://feeds.feedburner.com/sinhalahacker/TIxj",
     "displayName": "si",
     "icon": "newspaper",
     "group": "German feeds",
