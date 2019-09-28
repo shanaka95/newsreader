@@ -11,7 +11,7 @@
   {
     "provider": "rss",
     "name": "rss-heise-all",
-    "url": "https://www.heise.de/rss/heise.rdf",
+    "url": "https://www.adaderana.lk/rss.php",
     "displayName": "Heise",
     "icon": "newspaper",
     "group": "German feeds",
