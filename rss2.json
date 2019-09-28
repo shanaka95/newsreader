@@ -2,7 +2,7 @@
   {
     "provider": "rss",
     "name": "rss-golem-all",
-    "url": "https://www.adaderana.lk/rss.php",
+    "url": "https://www.heise.de/rss/heise.rdf",
     "displayName": "si",
     "icon": "newspaper",
     "group": "German feeds",
