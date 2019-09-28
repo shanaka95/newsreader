@@ -2,7 +2,7 @@
   {
     "provider": "rss",
     "name": "rss-golem-all",
-    "url": "http://feeds.feedburner.com/sinhalahacker/TIxj",
+    "url": "https://www.adaderana.lk/rss.php",
     "displayName": "si",
     "icon": "newspaper",
     "group": "German feeds",
