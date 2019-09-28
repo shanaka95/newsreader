@@ -1,0 +1,47 @@
+[
+  {
+    "provider": "rss",
+    "name": "rss-golem-all",
+    "url": "https://sinhalahacker.blogspot.com/feeds/posts/default",
+    "displayName": "si",
+    "icon": "newspaper",
+    "group": "German feeds",
+    "settingDisplayName": "Golem.de"
+  },
+  {
+    "provider": "rss",
+    "name": "rss-heise-all",
+    "url": "https://www.heise.de/rss/heise.rdf",
+    "displayName": "Heise",
+    "icon": "newspaper",
+    "group": "German feeds",
+    "settingDisplayName": "Heise.de"
+  },
+  {
+    "provider": "rss",
+    "name": "rss-tagesschau",
+    "url": "http://www.tagesschau.de/xml/rss2",
+    "displayName": "Tagesschau",
+    "icon": "newspaper",
+    "group": "German feeds",
+    "settingDisplayName": "Tagesschau"
+  },
+  {
+    "provider": "rss",
+    "name": "rss-nytimes",
+    "url": "https://www.nytimes.com/svc/collections/v1/publish/https://www.nytimes.com/section/world/rss.xml",
+    "displayName": "NY Times",
+    "icon": "newspaper",
+    "group": "Global news",
+    "settingDisplayName": "New York Times - World News"
+  },
+  {
+    "provider": "rss",
+    "name": "rss-spiegelonline",
+    "url": "http://www.spiegel.de/international/index.rss",
+    "displayName": "Spiegel Online",
+    "icon": "newspaper",
+    "group": "Global news",
+    "settingDisplayName": "Spiegel Online International"
+  }
+]
