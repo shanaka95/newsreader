@@ -2,7 +2,7 @@
   {
     "provider": "rss",
     "name": "rss-golem-all",
-    "url": "http://www.hirunews.lk/rss/sinhala.xml",
+    "url": "http://173.82.206.48/newsapp/nethNews.php",
     "displayName": "si",
     "icon": "newspaper",
     "group": "German feeds",
